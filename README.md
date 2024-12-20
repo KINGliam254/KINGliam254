@@ -1,5 +1,38 @@
-# 💫 About Me:
-working on Artificial neural networks<br>collaborating on open source design and front end development projects<br>i'm looking for help with Advanced AI and Machine learning algorithms<br>currently learning about deep learning and neural networks and cryptocurrency and blockchain tech<br>Ask me about motorsport, minimalist designs, creative problem-solving, starting impactful tech startups or AI projects
+Hey there! I'm Liam 👋
+a tech enthusiast exploring the frontiers of Advanced AI and Cybersecurity. My focus lies in building smarter systems, from autonomous robotics to real-time 3D simulations, while ensuring ethical AI governance. Skilled in Python, C, and more, I aim to craft innovations that shape the future of technology.
+
+
+
+🚀 What I'm Working On
+
+🧠 Artificial Neural Networks: Building an image recognition model from scratch with NumPy and Kaggle datasets.
+
+🤝 What I'm Collaborating On
+
+🌐 Open-source design and front-end development projects.
+
+
+🧩 What I'm Looking for Help With
+
+🧑‍💻 Advanced AI and machine learning algorithms.
+
+
+📚 What I'm Currently Learning
+
+🤖 Deep learning and neural networks.
+
+💰 Cryptocurrency and blockchain tech.
+
+
+💡 Ask Me About
+
+🏎️ Motorsport and anything about cars
+
+🎨 Minimalist designs and creative problem-solving.
+
+🌟 Starting impactful tech startups or ambitious AI projects.
+
+
 
 
 ## 🌐 Socials:
