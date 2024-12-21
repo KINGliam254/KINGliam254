@@ -57,4 +57,8 @@ a tech enthusiast exploring the frontiers of Advanced AI and Cybersecurity. My f
 ---
 [![](https://visitcount.itsvg.in/api?id=KINGliam254&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KINGliam254&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
