@@ -1,5 +1,5 @@
 # 💫 About Me:
-I write code because it pays the bills. Sometimes it's good code sometimes it meeh! but they usually work.<br>Check the repos, not the bio🙄<br>Don't @ me and Stop asking for my 5 year plan
+I write code <br>Check the repos, not the bio🙄<br>
 
 
 ## 🌐 Socials:
