@@ -5,8 +5,8 @@
   <br />
   <br />
 
-  <h1>LIAM WILLIAMS</h1>
-  <h3>Designer • Engineer • Digital Builder</h3>
+  <h1>ROBERT WILLIAMS</h1>
+  <h3>Designer • Engineer • Digital Builder • Digital Auteur</h3>
   <p>
     <i>Constructing high-performance systems from the metal to the pixel.</i>
   </p>
@@ -23,15 +23,30 @@
 <hr />
 <br />
 
-### // THE STACK
+### // ARCHITECTURE & TOOLING
 
-| **Core Engineering** | **Web & Interface** | **Digital Art & Tools** |
-| :--- | :--- | :--- |
-| 🦀 **Rust** (Systems) | ⚛️ **React / Next.js** | 🧊 **Blender 3D** |
-| ⚙️ **C++ / C** | wv **TypeScript** | 📐 **AutoCAD** |
-| 🐍 **Python** | 🎨 **Tailwind CSS** | 🏎️ **Assetto Corsa Apps** |
-| 📱 **Android Studio** | 🖥️ **Electron / Native** | ✈️ **Aero Sim** |
+<div align="center">
 
+  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 <br />
 
 ### // CURRENT FOCUS
