@@ -48,27 +48,6 @@
 
 </div>
 <br />
-<div align="center">
-
-  <h1 style="font-size: 3em; margin-bottom: 0;">LIAM WILLIAMS</h1>
-  
-  <h3 style="font-weight: normal; margin-top: 10px; letter-spacing: 2px;">
-    DESIGNER • ENGINEER • DIGITAL BUILDER
-  </h3>
-
-  <p style="max-width: 600px; margin-top: 20px;">
-    <i>Bridging the gap between silicon and pixel. Architecting high-performance engines and minimalist digital experiences.</i>
-  </p>
-
-  <br />
-
-  <p>
-    <a href="LINKEDIN_URL" style="text-decoration: none; color: inherit;">LINKEDIN</a> / 
-    <a href="PORTFOLIO_URL" style="text-decoration: none; color: inherit;">PORTFOLIO</a> / 
-    <a href="mailto:EMAIL" style="text-decoration: none; color: inherit;">EMAIL</a>
-  </p>
-
-</div>
 
 
 <br />
