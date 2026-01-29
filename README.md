@@ -48,8 +48,6 @@
 
 </div>
 <br />
-
-### // CURRENT FOCUS
 ### // ACTIVE_DIRECTIVES
 
 ```text
