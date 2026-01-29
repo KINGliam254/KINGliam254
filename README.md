@@ -48,13 +48,5 @@
 
 </div>
 <br />
-### // ACTIVE_DIRECTIVES
 
-```text
-ID    PROJECT                 STACK              STATUS          PROGRESS
--------------------------------------------------------------------------
-01    PHYSICS_CORE            Rust / WGPU        [ARCHITECTING]  [=.........]
-02    AERO_DYNAMICS_LIB       C++ / Python       [DEVELOPING]    [===.......]
-03    ASSETTO_TELEMETRY       Next.js / WS       [REFACTORING]   [======....]
-04    PROCEDURAL_PIPELINE     Blender / Py       [DEPLOYED]      [==========]
 <br />
