@@ -1,53 +1,51 @@
-<div align="center">
+# Liam Williams
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ4eGp2anh6YnpmMjF6bHg1eGp2anh6YnpmMjF6bHg1eGp2anh6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bc3bO0c8g1X2qwo/giphy.gif" width="100%" alt="Wireframe Header" />
+At my core, I’m a developer who just tries anything.
 
-  <br />
-  <br />
+---
 
-  <h1>ROBERT WILLIAMS</h1>
-  <h3>Designer • Engineer • Digital Builder • Digital Auteur</h3>
-  <p>
-    <i>Constructing high-performance systems from the metal to the pixel.</i>
-  </p>
+## Work
 
-  <br />
+I design and build systems where form and function are inseparable.
 
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • 
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> • 
-  <a href="mailto:YOUR_EMAIL">Email</a>
+My work sits across:
 
-</div>
+- Frontend engineering  
+- Backend systems  
+- UI / UX design  
+- Performance & optimization  
+- Tooling and developer experience  
 
-<br />
-<hr />
-<br />
+I care about how things look, how they feel, and how they scale.
 
-### // ARCHITECTURE & TOOLING
+---
 
-<div align="center">
+## Approach
 
-  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=white" />
+- Build the simplest thing that can survive reality  
+- Reduce friction until the system disappears  
+- Prefer clarity over cleverness  
+- Iterate in public, refine in private  
 
-  <br />
+I don’t separate design from engineering.
+They are the same problem viewed from different angles.
 
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+---
 
-  <br />
+## Projects
 
-  <img src="https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+This space is a growing archive.
 
-</div>
-<br />
+Some projects are polished.
+Some are experiments.
+All of them are intentional.
 
+(Selected work lives in the repositories below.)
 
-<br />
+---
+
+## Notes
+
+This profile is not a résumé.
+It’s a record of exploration, decisions, and craft.
+
