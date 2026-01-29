@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a self-taught engineer obsessed with the "how." My work operates on a simple philosophy: if the existing tool is too slow or too ugly, I build my own.<br><br>Current Focus: Game Engine Architecture & Procedural Design.<br>
+I am an engineer obsessed with the "how." My work operates on a simple philosophy: if the existing tool is too slow or too ugly, I build my own.<br>The future of the digital experience lies in the rejection of the generic. We are moving toward a period of exceptional intentionality.
+<br>Current Focus: Game Engine Architecture & Procedural Design.<br>
 
 
 ## 🌐 Socials:
